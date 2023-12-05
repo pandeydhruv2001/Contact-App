@@ -19,8 +19,8 @@ The Contact Form App is a React.js-based web application that allows users to su
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/contact-form-app.git
-    cd contact-form-app
+    git clone https://github.com/pandeydhruv2001/Contact-App.git
+    cd Contact-App
     ```
 
 2. Install dependencies:
