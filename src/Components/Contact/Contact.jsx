@@ -14,9 +14,9 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const serviceId = "service_h4glx6q";
-    const templateId = "template_gvj189f";
-    const publicKey = "iX9Z_7lhbM8pCzdGF";
+    const serviceId = "";
+    const templateId = "";
+    const publicKey = "";
 
     const templateParams = {
       from_name: yourname,
